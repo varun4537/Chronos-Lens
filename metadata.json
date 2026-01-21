@@ -1,0 +1,7 @@
+{
+  "name": "Chronos Lens",
+  "description": "A time-traveling camera that generates snapshots of historical events based on location and date.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
